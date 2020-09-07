@@ -36,7 +36,7 @@ Statistics Canada. [Table 10-10-0048-01 Federal government debt, for fiscal year
 
 Statistics Canada. [Table 10-10-0002-01 Central government debt (x 1,000,000)](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1010000201&cubeTimeFrame.startMonth=01&cubeTimeFrame.startYear=2009&cubeTimeFrame.endMonth=05&cubeTimeFrame.endYear=2020&referencePeriods=20090101%2C20200501)
 
-* Q1 or March assumed for Fiscal Year End values with the exception of Federal Debt 2009. Data not provided for 2009 March. Sep 2009 value assumed for that year*.
+*Q1 or March assumed for Fiscal Year End values with the exception of Federal Debt 2009. Data not provided for 2009 March. Sep 2009 value assumed for that year*.
 
 ## Data Sources for Oil Prices(WTI, WCS)
 WTI Source: U.S. Energy Information Administration (Jan 1986 to present). 
